@@ -1,5 +1,5 @@
 // TODO
-const aMettreEnRouge = document.querySelectorAll("#a-mettre-en-rouge")
+const aMettreEnRouge = document.querySelector("#a-mettre-en-rouge")
 aMettreEnRouge.style.color = "red"
 
 const enRougeSuiteAClick = document.querySelector("#en-rouge-suite-a-click")
